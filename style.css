@@ -1,0 +1,10 @@
+.btn {
+  border: none;
+  border-radius: 8px;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+p {
+}
