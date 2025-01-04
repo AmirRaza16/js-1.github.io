@@ -1,4 +1,4 @@
-document.querySelector("HTML").style.fontSize = "20px";
+// document.querySelector("HTML").style.fontSize = "20px";
 
 $("H1").css("display", "flex");
 $("H1").css("justify-content", "center");
